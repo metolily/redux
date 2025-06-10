@@ -1,0 +1,43 @@
+.container-fluid {
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-fluid header {
+    width: 100%;
+    text-align: center;
+    border: 1px solid #d2d2d2;
+    height: 75px;
+    font-size: xx-large;
+    color: gray;
+    border-radius: 10px;
+    margin-bottom: 45px;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 45px;
+}
+
+.btn {
+    width: 100%;
+}
+
+.container-fluid footer {
+    width: 100%;
+    text-align: center;
+    border: 1px solid #d2d2d2;
+    height: 40px;
+    font-size: x-large;
+    color: gray;
+    border-radius: 10px;
+}
